@@ -190,7 +190,7 @@ For further information, inquiries, user research resource, or partnership oppor
  ##### An Xiao Mina, an@meedan.com
  
 Current and Past Contributors also include: Martin Shelton, Matt Mitchell, Shirin Mori, TTCat, Max Anderson.
-A separate project (https://www.secureux.design/) based on this work was recently created by Caroline Sinders and Natalie Cadranel.
+A [separate project] (https://www.secureux.design/) based on this work was recently created by Caroline Sinders and Natalie Cadranel.
 
 [1] For more about user research methods, visit Nielsen Norman Group’s summary at  https://www.nngroup.com/articles/which-ux-research-methods
 
