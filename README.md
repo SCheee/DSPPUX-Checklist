@@ -189,7 +189,7 @@ For further information, inquiries, user research resource, or partnership oppor
  ##### Sage Cheng, sage@accessnow.org
  ##### An Xiao Mina, an@meedan.com
  
-Current and Past Contributors also include: Martin Shelton, Matt Mitchell, Soraya Okuda, TTCat, Max Anderson.
+Current and Past Contributors also include: Martin Shelton, Matt Mitchell, Shirin Mori, TTCat, Max Anderson.
 A separate project based on this work was recently created by Caroline Sinders and Natalie Cadranel.
 
 [1] For more about user research methods, visit Nielsen Norman Group’s summary at  https://www.nngroup.com/articles/which-ux-research-methods
